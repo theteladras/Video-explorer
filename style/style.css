@@ -68,3 +68,9 @@ input::placeholder {
 #media-object {
   width: 200px;
 }
+.video {
+  width: 80%;
+  align-self: center;
+  justify-content: center;
+  margin-top: 50px;
+}
